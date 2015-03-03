@@ -1,5 +1,5 @@
-const int LED = 2;
-const int PB = 13;
+const int LED = 13;
+const int PB = 2;
 
 int buttonState;
 
